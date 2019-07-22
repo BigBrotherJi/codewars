@@ -9,4 +9,3 @@ def smallest(n):
                 min1, from1, to1 = num, i, j
     return [min1, from1, to1]
 
-
